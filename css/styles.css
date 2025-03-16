@@ -93,7 +93,6 @@ body {
 
 .second-container-bottom{
     display: flex;
-    width: 50%;
     justify-content: center;
     align-items: center;
 }
@@ -114,5 +113,6 @@ body {
 
 .second-container-box1 p{
     margin-top: 0;
+    text-align: center;
 }
 
