@@ -116,3 +116,29 @@ body {
     text-align: center;
 }
 
+/*Third Container*/
+.third-container{
+    background-color: rgb(190, 186, 186);
+    color: rgb(39, 35, 35);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.quote{
+    font-size: 40px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    width: 60%;
+}
+
+.author{
+    width: 60%;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: right;
+    margin-top: -50px;
+}
