@@ -193,3 +193,17 @@ body {
     cursor: pointer;
     color: rgb(235, 233, 233);
 }
+
+/*Footer*/
+.foot{
+    background-color: rgb(39, 38, 38);
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foot p{
+    font-size: 20px;
+    color: rgb(235, 233, 233);
+}
